@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.btn-edit {
+  margin: 8px;
+  padding: 4px 10px;
+}
+
+.btn-del {
+  background-color: red;
+  color: white;
+  padding: 4px 10px;
+}
+
+tr th {
+  background-color: rgb(102, 102, 102);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+}
+
+tr td {
+  background-color: white;
+  color: black;
+
+  text-align: center;
+}

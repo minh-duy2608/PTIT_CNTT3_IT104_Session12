@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(116, 141, 141);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation {
+  width: 100%;
+  height: 40px;
+  background-color: rgb(76, 82, 82);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

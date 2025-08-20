@@ -1,0 +1,20 @@
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.box-red {
+  background-color: red;
+}
+.box-blue {
+  background-color: blue;
+}
+.box-green {
+  background-color: green;
+}

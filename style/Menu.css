@@ -1,0 +1,33 @@
+.menu {
+  width: 20%;
+  background-color: rgb(21, 10, 119);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu07,
+.article07 {
+  width: 10%;
+  background-color: rgb(34, 147, 40);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article07 {
+  background-color: rgb(124, 124, 255);
+}
+
+.cart-item {
+  width: calc((100% - 24px) / 4);
+  height: 60px;
+  background-color: antiquewhite;
+  color: black;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
